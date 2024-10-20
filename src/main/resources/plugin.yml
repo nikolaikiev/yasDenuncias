@@ -1,0 +1,10 @@
+name: yasDenuncias
+version: 1.0
+api-version: '1.8.8'
+author: nikolaikiev
+depend: [LuckPerms]
+main: onion.nikolaikiev.Main
+commands:
+  denunciar:
+    aliases: [report, denuncias]
+  menu-denuncias:
