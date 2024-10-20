@@ -17,12 +17,12 @@ O **yasDenuncias** é um plugin para servidores Bukkit/Spigot do Minecraft 1.8.8
 
 ## Comandos
 ### Denunciar
-- **Comando**: `/denuncias <jogador> <motivo>`
+- **Comando**: `/denunciar <jogador> <motivo>`
 - **Permissão**: `denuncias.report`
 - **Descrição**: Denuncia outro jogador por um motivo específico.
   
 ### Menu de Denúncias
-- **Comando**: `/menudenuncias`
+- **Comando**: `/menu-denuncias`
 - **Permissão**: `denuncias.open`
 - **Descrição**: Abre um menu GUI para gerenciar denúncias.
 
